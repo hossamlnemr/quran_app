@@ -41,6 +41,7 @@ class _MyAppState extends State<MyApp> {
       theme: ThemeData(
         primarySwatch: Colors.teal,
       ),
+      debugShowCheckedModeBanner:false,
       home: const IndexPage(),
     );
   }
