@@ -17,7 +17,7 @@ String arabicFont = 'quran';
 double arabicFontSize = 28;
 double mushafFontSize = 40;
 
-Uri quranAppurl = Uri.parse('https://github.com/hossamlnemr');
+Uri quranAppurl = Uri.parse('https://github.com/hossamlnemr/quran_app');
 
 Future saveSettings() async {
   final prefs = await SharedPreferences.getInstance();
