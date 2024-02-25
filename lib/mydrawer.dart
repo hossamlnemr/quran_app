@@ -28,7 +28,7 @@ class MyDrawer extends StatelessWidget {
                   height: 80,
                 ),
                 const Text(
-                  'Al Quran',
+                  'القران',
                   style: TextStyle(fontSize: 20),
                 ),
 
@@ -41,7 +41,7 @@ class MyDrawer extends StatelessWidget {
               Icons.settings,
             ),
             title: const Text(
-              'Settings',
+              'الاعدادات',
             ),
             onTap: () {
               Navigator.pop(context);
@@ -55,11 +55,11 @@ class MyDrawer extends StatelessWidget {
               Icons.share,
             ),
             title: const Text(
-              'Share',
+              'مشاركة',
             ),
             onTap: () {
               Share.share('''*Quran app*\n
-u can develop it from my github github.com/hossamlnemr ''');
+يمكنك تحميل التطبيق من  https://drive.google.com/drive/folders/1o8zcCEPhqt49MkoUBhsd6Uf4T18jVupI ''');
               Navigator.pop(context);
             },
           ),
@@ -68,7 +68,7 @@ u can develop it from my github github.com/hossamlnemr ''');
               Icons.rate_review,
             ),
             title: const Text(
-              'Rate',
+              'تقيم',
             ),
             onTap: () async {
               if (!await launchUrl(quranAppurl,

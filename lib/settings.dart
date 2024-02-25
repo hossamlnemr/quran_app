@@ -15,7 +15,7 @@ class _SettingsState extends State<Settings> {
       child: Scaffold(
         appBar: AppBar(
           title: const Text(
-            "Settings",
+            "الاعدادات",
           ),
           backgroundColor: const Color.fromARGB(255, 56, 115, 59),
         ),
@@ -26,7 +26,7 @@ class _SettingsState extends State<Settings> {
               child: Column(
                 children: [
                   const Text(
-                    'Arabic Font Size:',
+                    'حجم الخط العربي',
                     style: TextStyle(
                       fontWeight: FontWeight.bold,
                       fontSize: 15,
@@ -56,7 +56,7 @@ class _SettingsState extends State<Settings> {
                     child: Divider(),
                   ),
                   const Text(
-                    'Mushaf Mode Font Size:',
+                    'حجم الخط في وضع المصحف',
                     style: TextStyle(
                       fontWeight: FontWeight.bold,
                       fontSize: 15,
@@ -95,13 +95,13 @@ class _SettingsState extends State<Settings> {
                                     });
                                     saveSettings();
                                   },
-                          child: const Text('Reset')),
+                          child: const Text('افتراضي')),
                       ElevatedButton(
                             onPressed: (){
                               saveSettings();
                               Navigator.of(context).pop();
                             },
-                          child: const Text('Save')),
+                          child: const Text('حفظ')),
                     ],
                   ),
 
