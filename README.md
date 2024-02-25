@@ -71,29 +71,6 @@ El Quran El Kareem app is open-source  app for Android & ios. It is built with D
 ------------------------------
 
 
-## Other Flutter Projects 🔐
-- [face generator app](https://github.com/itsherifAhmed/face-generator)
-- [screen shot lock  ](https://github.com/itsherifAhmed/screen_shot)
-- [bg remover app](https://github.com/itsherifAhmed/bg-remover)
-- [heart rate app](https://github.com/itsherifAhmed/heart_Rate_App_Camera_And_Flash_Getx)
-- [Weather app](https://github.com/itsherifAhmed/Weather_App)
-- [udemy clone app](https://github.com/itsherifAhmed/udemy_free_course)
-- [clock app](https://github.com/itsherifAhmed/clock-App)
-- [برنامج الاحاديث الاربعون النوويه](https://github.com/itsherifAhmed/alnawawiforty)
-- [Youtube Clone App](https://github.com/itsherifAhmed/youtube-clone-app-Getx-youtube-Data-api-V3)
-- [Quiz App](https://github.com/itsherifAhmed/Quiz-app)
-- [News App](https://github.com/itsherifAhmed/NewsApp)
-- [Device Detail App](https://github.com/itsherifAhmed/device-detail-app)
-- [White board Draw App](https://github.com/itsherifAhmed/draw-app)
-- [music app player external storage read](https://github.com/itsherifAhmed/Music-Player-Read-external-Storage-Flutter-app)
-- [Make Up App flutter MVC Getx](https://github.com/itsherifAhmed/MakeUp-App)
-- [Speech to Text app flutter](https://github.com/itsherifAhmed/Speech-to-text-app)
-- [api flutter project](https://github.com/itsherifAhmed/apiFlutter-Project)
-- [qr code app](https://github.com/itsherifAhmed/qr-barcode)
-- [facebook ui clone](https://github.com/itsherifAhmed/facebook-ui-clone)
-- [Login Screen](https://github.com/itsherifAhmed/login-screen)
-
-
 
 
 ## Snapshots
