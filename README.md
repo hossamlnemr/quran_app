@@ -37,25 +37,6 @@ El Quran El Kareem app is open-source  app for Android & ios. It is built with D
 <p align="center"><b>تطبيق القران الكريم</b></p>
 
 
-##:rocket: youtube Tutorial
-
-- El Quran ElKareem App by GetX Link: [Quran](https://www.youtube.com/watch?v=Mb10ndQn3yQ&list=PLI36SLicSOmKlHGZRFBl153PHsyAhRF5M)
-- Ahadith App by GetX Link: [Ahadith](https://www.youtube.com/watch?v=bHVremPtgNo&t=3668s&ab_channel=SecitDevelopers)
-- Youtube App by GetX Link: [youtube](https://www.youtube.com/watch?v=WlEgZKKd_xY&list=PLI36SLicSOmLSQCD1Ccw7gazmeBlcAsAj&index=14)
-- Weather App by GetX Link: [youtube](https://www.youtube.com/watch?v=Oo_Wq9YKEc0&list=PLI36SLicSOmLSQCD1Ccw7gazmeBlcAsAj&index=13&ab_channel=SecitDevelopers)
-- udemy App by GetX Link: [youtube](https://www.youtube.com/watch?v=nZZ9PsL4z3Q&list=PLI36SLicSOmLSQCD1Ccw7gazmeBlcAsAj&index=12)
-- Clock App by GetX Link: [youtube](https://www.youtube.com/watch?v=zfaVN0oZokk&list=PLI36SLicSOmLSQCD1Ccw7gazmeBlcAsAj&index=11)
-- Draw App by GetX Link: [youtube](https://www.youtube.com/watch?v=bPLI_o86o1s&list=PLI36SLicSOmLSQCD1Ccw7gazmeBlcAsAj&index=4&ab_channel=SecitDevelopers)
-- Quiz App by GetX Link: [Quiz](https://www.youtube.com/watch?v=CasRDoWlPcY&t=899s&ab_channel=SecitDevelopers)
-- Note App by GetX Link: [Note](https://www.youtube.com/watch?v=ZrDK3fG4PO0&t=198s&ab_channel=SecitDevelopers)
-- news App Api by GetX Link: [News](https://www.youtube.com/watch?v=MFjoIT3RJSc&list=PLI36SLicSOmKQMPwPauvWDARjzrlQyLIo&index=21&ab_channel=SecitDevelopers)
-- Ecommerce App by GetX Link: [MakeUp](https://www.youtube.com/watch?v=-bwiujixOpU&list=PLI36SLicSOmKQMPwPauvWDARjzrlQyLIo&index=3&ab_channel=SecitDevelopers)
-- Qr Code: [Qr Code](https://www.youtube.com/watch?v=-QCrf5EytSc&list=PLI36SLicSOmLSQCD1Ccw7gazmeBlcAsAj&ab_channel=SecitDevelopers)
-- Voice to Text App: [Voice to Text App](https://www.youtube.com/watch?v=dpdnvSI0Dn8&list=PLI36SLicSOmLSQCD1Ccw7gazmeBlcAsAj&index=2&ab_channel=SecitDevelopers)
-- GetX EcoSystem playList Link: [PlayList](https://www.youtube.com/watch?v=8Jy4dtQOZMQ&list=PLI36SLicSOmKQMPwPauvWDARjzrlQyLIo&index=1)
-
-
-
 
 ## Benfit👻
 - [🖥] # Screens 🖥
@@ -69,26 +50,3 @@ El Quran El Kareem app is open-source  app for Android & ios. It is built with D
 - [x] Deal With local json 
 
 ------------------------------
-
-
-
-
-## Snapshots
-
-
-| Splash Screen | homw screen Screen                        |
-|------|-------------------------------------------|
-|<img src="snapshot/splash.jpg" width="400">| <img src="snapshot/home.jpg" width="400"> |
-
-
-| drawer                                      | setting  Page                                |
-|---------------------------------------------|----------------------------------------------|
-| <img src="snapshot/drawer.jpg" width="400"> | <img src="snapshot/setting.jpg" width="400"> |
-
-
-| View One                                     | View Two  Page                               |
-|----------------------------------------------|----------------------------------------------|
-| <img src="snapshot/viewone.jpg" width="400"> | <img src="snapshot/viewtwo.jpg" width="400"> |
-
-
-
