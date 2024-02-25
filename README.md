@@ -13,16 +13,7 @@
   <p align="center">
     El Quran ElKareem shared local DB and Local Json
     <br />
-    <a href="https://github.com/itsherifAhmed/quran_kareem"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/itsherifAhmed/quran_kareem">View Demo</a>
-    ·
-    <a href="https://github.com/itsherifAhmed/quran_kareem">Report Bug</a>
-    ·
-    <a href="https://github.com/itsherifAhmed/quran_kareem">Request Feature</a>
-  </p>
-</div>
+    
 
 
 
