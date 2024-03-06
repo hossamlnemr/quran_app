@@ -3,6 +3,7 @@
 import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
+import 'package:get/get_navigation/get_navigation.dart';
 import 'package:ytquran/constant.dart';
 import 'package:ytquran/splash.dart';
 import 'index.dart';
@@ -37,7 +38,7 @@ class _MyAppState extends State<MyApp> {
   }
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
+    return GetMaterialApp(
       title: 'Quran',
       theme: ThemeData(
         primarySwatch: Colors.teal,

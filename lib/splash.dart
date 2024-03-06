@@ -20,7 +20,7 @@ void initState(){
   super.initState();
 initalAnimation();
 Future.delayed(Duration(seconds: 2),(){
-  Get.to(()=>IndexPage(),transition: Transition.downToUp);
+  Get.to(()=>IndexPage(),transition: Transition.downToUp,duration: Duration(milliseconds: 250));
 });
 
 }
