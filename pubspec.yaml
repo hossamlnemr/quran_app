@@ -13,10 +13,12 @@ dependencies:
   shared_preferences: ^2.0.13
   scrollable_positioned_list: ^0.2.3
   cupertino_icons: ^1.0.2
-  flutter_native_splash: ^2.2.15
+  # flutter_native_splash: ^2.2.15
   flutter_launcher_icons: ^0.13.1
   share_plus: ^4.0.3
   url_launcher: ^6.1.6
+  get: ^4.6.5
+  getx_route_generator: ^1.1.2
 
 dev_dependencies:
   flutter_test:
@@ -25,12 +27,12 @@ flutter_icons:
   android: true
   ios: true
   image_path: "assets/quran.png"
-flutter_native_splash:
-  color: "#FFFFFF"
-  image: assets/quran1.png
-  android: true
-  ios: true
-  flutter_lints: ^2.0.0
+# flutter_native_splash:
+#   color: "#FFFFFF"
+#   image: assets/quran1.png
+#   android: true
+#   ios: true
+#   flutter_lints: ^2.0.0
 
 flutter:
 

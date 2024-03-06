@@ -4,6 +4,7 @@ import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:ytquran/constant.dart';
+import 'package:ytquran/splash.dart';
 import 'index.dart';
 void main() {
   runApp(const MyApp());
@@ -42,7 +43,7 @@ class _MyAppState extends State<MyApp> {
         primarySwatch: Colors.teal,
       ),
       debugShowCheckedModeBanner:false,
-      home: const IndexPage(),
+      home: const Splash(),
     );
   }
 }
