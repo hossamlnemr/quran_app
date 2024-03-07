@@ -20,7 +20,7 @@ void initState(){
   super.initState();
 initalAnimation();
 Future.delayed(Duration(seconds: 2),(){
-  Get.to(()=>IndexPage(),transition: Transition.downToUp,duration: Duration(milliseconds: 250));
+  Get.to(()=>IndexPage(),transition: Transition.zoom,duration: Duration(milliseconds: 250));
 });
 
 }
@@ -52,7 +52,7 @@ Future.delayed(Duration(seconds: 2),(){
           const  SizedBox(height: 10,),
            SlideTransition(
              position: slidingAnimation,
-             child: Text(" واجعله لي اماما ونورا ",style: TextStyle(
+             child: Text("🤲 واجعله لي اماما ونورا ",style: TextStyle(
               color: const Color.fromARGB(255, 83, 43, 29),
               fontSize: 30.0,
               fontWeight: FontWeight.w400,
